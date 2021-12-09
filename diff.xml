@@ -1,11 +1,6 @@
 <application>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
-      <entry key="Default">
-        <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
-        </PlaceSettings>
-      </entry>
       <entry key="VcsFileHistoryView">
         <PlaceSettings />
       </entry>
