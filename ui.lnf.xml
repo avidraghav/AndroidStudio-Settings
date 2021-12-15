@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
   </component>
 </application>
