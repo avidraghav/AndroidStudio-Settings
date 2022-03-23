@@ -1,6 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Android Gradle Tasks" shouldReadAloud="true" playSound="true" />
+    <notification groupId="Android Gradle Tasks" playSound="true" />
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Build (Balloon)" playSound="true" />
     <notification groupId="Gradle Build (Logging)" displayType="NONE" playSound="true" />
